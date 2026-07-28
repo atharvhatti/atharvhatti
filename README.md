@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharv Hatti</h1>
 
 <h3 align="center">
-Software Engineer • Backend • Cloud • AI
+Software Engineer • Cloud • AI
 </h3>
 
 
