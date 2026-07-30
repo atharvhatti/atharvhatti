@@ -11,26 +11,45 @@ I enjoy building scalable backend systems, cloud-native applications, and AI-pow
 
 ---
 
-## 🚀 About Me
 
-- 💻 Building software with a focus on backend engineering and cloud technologies
-- 🌱 Currently learning **AWS**, **DevOps**, **Generative AI**, and **System Design**
-- 🚀 Exploring distributed systems, scalable architectures, and AI-driven applications
-- 🤝 Open to Software Engineering opportunities and open-source collaborations
----
+## About Me
 
+- <img alt="Backend" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"> Building software with a focus on backend engineering and cloud technologies
 
-## 🔭 Currently Building
+- <img alt="AWS" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg"> Currently learning <b>AWS</b>, <b>DevOps</b>, <b>Generative AI</b>, and <b>System Design</b>
 
-- ☁️ Cloud-native backend applications
-- 🤖 AI-powered software projects
-- ⚙️ Scalable REST APIs
-- 🚀 Open-source developer tools
+- <img alt="Kubernetes" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg"> Exploring distributed systems, scalable architectures, and AI-driven applications
+
+- <img alt="GitHub" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> Open to Software Engineering opportunities and open-source collaborations
 
 
-## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-hatti-95599124b/)
 
-[![Email](https://img.shields.io/badge/Email-atharvhatti.work%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvhatti.work@gmail.com)
+## Currently Building
+
+- <img alt="Docker" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"> Cloud-native backend applications
+
+- <img alt="OpenAI" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openai.svg"> AI-powered software projects
+
+
+- <img alt="Postman" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg"> Scalable REST APIs
+  
+- <img alt="GitHub" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"> Open-source developer tools
+
+
+
+
+
+
+# Connect
+
+<a href="https://www.linkedin.com/in/atharv-hatti-95599124b/" target="_blank"><img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<a href="mailto:atharvhatti.work@gmail.com"><img align="left" alt="Gmail" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+
+<br><br>
+
+
+
+
 
